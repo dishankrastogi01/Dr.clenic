@@ -1,5 +1,5 @@
 /* Top navbar */
-@media(max-width:800px){
+@media(max-width:810px){
     .navbar{
        display: none;
     }   
@@ -36,6 +36,18 @@
     .fot-inner-w{
         width: auto;
     }
+}
+/* slider-Textarea */
+@media(max-width:810px)
+{
+    .textarea{
+        position: absolute;
+        top: 15%;
+        right: 24%;
+        font-weight: bold;
+        color: white;
+    }
+  
 }
  
  
